@@ -1,0 +1,2 @@
+class Hashtagging < ApplicationRecord
+end
